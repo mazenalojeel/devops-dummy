@@ -1,6 +1,5 @@
 <?php
-// test trigger
-// test mazen test
+// tanveer iqbal
 use Illuminate\Support\Facades\Route;
 
 /*
