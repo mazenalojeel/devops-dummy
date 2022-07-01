@@ -45,7 +45,7 @@
                     </svg>
                 </div>
 
-		Host : {{getHostByName(getHostName())}}                  
+		Internal IP is : {{getHostByName(getHostName())}}                  
 
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
